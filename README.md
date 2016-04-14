@@ -10,7 +10,8 @@ o propósito é disceminar conheciemnto.
 
 sejam bem-vindo e faça bom uso do material. :sparkles:
 
-<b> evento [tecnologia]: </b>                                                        
+<b> evento [tecnologia]: </b>  
+```
 
 - 3ª Encontro Nacional de Mulheres na Tecnologia [mineração de repositórios de código aberto]
 
@@ -19,6 +20,9 @@ sejam bem-vindo e faça bom uso do material. :sparkles:
 - LadyTalks - 08/03/2016 [Desenvolvimento Android para Iniciantes]
 
 - Semana da Mulher na Tecnologia 2016 [Workshop App Inventor]
+
+```
+
 
 <b style='color:#FF00FF'>CodeLikeAGirl</b> :raising_hand: :computer: :coffee:
 
