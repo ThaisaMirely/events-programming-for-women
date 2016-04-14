@@ -16,7 +16,7 @@ are welcome and make good use of the material.  :sparkles:
 
 
 
-- [3ª National Meeting of Women in Technology [mining open source repositories]](https://github.com/ThaisaMirely/event_materials-programming_for_women/wiki/Encontro-Nacional-de-Mulheres-na-Tecnologia)
+- [3rd National Meeting of Women in Technology [mining open source repositories]](https://github.com/ThaisaMirely/event_materials-programming_for_women/wiki/Encontro-Nacional-de-Mulheres-na-Tecnologia)
 
 - [JS4 Girls Recife 2015 [Java Script and introduction to programming]](https://github.com/ThaisaMirely/event_materials-programming_for_women/wiki/JS4-Girls-Recife)
 
