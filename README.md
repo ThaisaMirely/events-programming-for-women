@@ -14,17 +14,17 @@ are welcome and make good use of the material.  :sparkles:
 <b> events [tecnologs]: </b>  (pages descriptions in portuguese)
 
 
-```
 
-- 3ª National Meeting of Women in Technology [mining open source repositories]
 
-- JS4 Girls Recife 2015 [Java Script and introduction to programming]
+- [3ª National Meeting of Women in Technology [mining open source repositories]](https://github.com/ThaisaMirely/event_materials-programming_for_women/wiki/Encontro-Nacional-de-Mulheres-na-Tecnologia)
 
-- LadyTalks - 08/03/2016 [Android Development for beginners]
+- [JS4 Girls Recife 2015 [Java Script and introduction to programming]](https://github.com/ThaisaMirely/event_materials-programming_for_women/wiki/JS4-Girls-Recife)
 
-- Women's Week in Technology 2016 [Workshop App Inventor]
+- [LadyTalks - 08/03/2016 [Android Development for beginners]](https://github.com/ThaisaMirely/event_materials-programming_for_women/wiki/LadyTalks-2016)
 
-```
+- [Women's Week in Technology 2016 [Workshop App Inventor]](https://github.com/ThaisaMirely/event_materials-programming_for_women/wiki/Semana-da-Mulher-na-Tecnologia-2016)
+
+
 
 <b style='color:#FF00FF'>CodeLikeAGirl</b> :raising_hand: :computer: :coffee:
 
