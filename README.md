@@ -9,7 +9,7 @@ most events are geared toward girls(girls understand how anyone who is identifie
 not only restricted to the public.
 the purpose is disseminate the knowledge.
 
-are welcome and make good use of the material.  :sparkles:
+welcome and make good use of the material.  :sparkles:
 
 <b> events [tecnologs]: </b>  (pages descriptions in portuguese)
 
