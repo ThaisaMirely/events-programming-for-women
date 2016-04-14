@@ -1,4 +1,4 @@
-## Events Materials
+## Event Materials
 
 hello!!
 
