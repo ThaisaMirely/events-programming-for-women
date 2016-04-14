@@ -30,7 +30,7 @@ sejam bem-vindo e faça bom uso do material. :sparkles:
 :warning: pontos importantes: 
 - alguns materiais de turtoriais podem conter imagens e na maioria das vezes há licenças associadas a elas. Leia antes usá-las. 
 - outra coisa importante é não utilizar o material para fins comerciais. A maioria foi feito para eventos gratúitos(creio que todos), então não vamos 'quebrar' esse princípio de uso. Tá bem? :thumbsup: :bowtie:
-- fique avontade para compartilhar, lembrando sempre em dar os devidos crétidos ao criador. (isso vale não só aqui mais para tudo na vida :ok_hand:)
+- fique avontade para compartilhar, lembrando sempre em dar os devidos créditos ao criador. (isso vale não só aqui mais para tudo na vida :ok_hand:)
 
 
 :checkered_flag: viu algum problema, quer deixar um recado ou dar uma dica? [@thaisa_mirely](https://twitter.com/thaisa_mirely)  :speech_balloon: :dancer:
