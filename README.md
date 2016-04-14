@@ -7,7 +7,7 @@ hello!!
 
 most events are geared toward girls(girls understand how anyone who is identified as such :blush:) and beginners or enthusiasts of software development. of course,
 not only restricted to the public.
-the purpose is disceminar conheciemnto .
+the purpose is disseminate the knowledge.
 
 are welcome and make good use of the material.  :sparkles:
 
@@ -32,8 +32,8 @@ are welcome and make good use of the material.  :sparkles:
 :warning: important points:
 
 - turtoriais some materials may contain pictures and most often license associated with them . Read before use them;
-- another important thing is not to use the material for commercial purposes. Most were made to free events (I think all), so we will not ' break ' the principle of use. OK? :Thumbsup: :bowtie:
-- feel free to share , always remembering to give proper crétidos the creator . (This is true not only here more for everything in life :ok_hand:)
+- another important thing is not to use the material for commercial purposes. Most were made to free events (I think all), so we will not ' break ' the principle of use. OK? :thumbsup: :bowtie:
+- feel free to share ,always remembering to give due credit to the creator(This is true not only here more for everything in life :ok_hand:)
 
 
 :checkered_flag: you saw a problem , either leave a message or give a tip? [@thaisa_mirely](https://twitter.com/thaisa_mirely)  :speech_balloon: :dancer:
