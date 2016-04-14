@@ -22,7 +22,7 @@ are welcome and make good use of the material.  :sparkles:
 
 - [LadyTalks - 08/03/2016 [Android Development for beginners]](https://github.com/ThaisaMirely/event_materials-programming_for_women/wiki/LadyTalks-2016)
 
-- [Women's Week in Technology 2016 [Workshop App Inventor]](https://github.com/ThaisaMirely/event_materials-programming_for_women/wiki/Semana-da-Mulher-na-Tecnologia-2016)
+- [Women's Week in Technology 2016 [AppInventor Workshop]](https://github.com/ThaisaMirely/event_materials-programming_for_women/wiki/Semana-da-Mulher-na-Tecnologia-2016)
 
 
 
