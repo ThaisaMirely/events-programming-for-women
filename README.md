@@ -11,7 +11,7 @@ the purpose is disseminate the knowledge.
 
 welcome and make good use of the material.  :sparkles:
 
-<b> events [tecnologs]: </b>  (pages descriptions in portuguese)
+<b> events [technologies]: </b>  (pages descriptions in portuguese)
 
 
 
