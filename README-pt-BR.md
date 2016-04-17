@@ -11,17 +11,15 @@ o propósito é disseminar conheciemnto.
 sejam bem-vindo e faça bom uso do material. :sparkles:
 
 <b> evento [tecnologia]: </b>  
-```
 
-- 3ª Encontro Nacional de Mulheres na Tecnologia [mineração de repositórios de código aberto]
 
-- JS4 Girls Recife 2015 [Java Script e introdução a programação]
+- [3ª Encontro Nacional de Mulheres na Tecnologia [mineração de repositórios de código aberto]](http://mulheresnatecnologia.org/encontro2015/)
 
-- LadyTalks - 08/03/2016 [Desenvolvimento Android para Iniciantes]
+- [JS4 Girls Recife 2015 [Java Script e introdução a programação]](https://github.com/ThaisaMirely/materials_events_ProgrammingForWomen/wiki/JS4-Girls-Recife)
 
-- Semana da Mulher na Tecnologia 2016 [Workshop App Inventor]
+- [LadyTalks - 08/03/2016 [Desenvolvimento Android para Iniciantes]](https://github.com/ThaisaMirely/materials_events_ProgrammingForWomen/wiki/LadyTalks-2016)
 
-```
+- [Semana da Mulher na Tecnologia 2016 [Workshop App Inventor]](https://github.com/ThaisaMirely/materials_events_ProgrammingForWomen/wiki/Semana-da-Mulher-na-Tecnologia-2016)
 
 
 <b style='color:#FF00FF'>CodeLikeAGirl</b> :raising_hand: :computer: :coffee:
