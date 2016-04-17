@@ -6,7 +6,7 @@ olá, tudo bem?
 
 a maioria dos eventos são voltados para garotas(entenda como garotas qualquer pessoa que se identificar como tal :blush:) e iniciantes ou entusiastas da área de desenvolvimento de software. mas claro, 
 não se restringe apenas a esse público. 
-o propósito é disseminar conheciemnto. 
+o propósito é disseminar conhecimento. 
 
 sejam bem-vindo e faça bom uso do material. :sparkles:
 
