@@ -21,6 +21,8 @@ sejam bem-vindo e faça bom uso do material. :sparkles:
 
 - [Semana da Mulher na Tecnologia 2016 [Workshop App Inventor]](https://github.com/ThaisaMirely/materials_events_ProgrammingForWomen/wiki/Semana-da-Mulher-na-Tecnologia-2016)
 
+- [Django Girls recife 2016 [python + django] ](https://github.com/ThaisaMirely/materials_events_ProgrammingForWomen/wiki/Django-Girls-Recife-2016)
+
 
 <b style='color:#FF00FF'>CodeLikeAGirl</b> :raising_hand: :computer: :coffee:
 
